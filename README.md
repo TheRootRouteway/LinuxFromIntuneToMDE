@@ -1,4 +1,4 @@
-# LinuxFromIntuneToMDE
+# Leveraging Microsoft Intune to onboard Linux workstations into Microsoft Defender for Endpoint (MDE)
 
 In the rapidly evolving digital landscape, where mobile devices and cloud services extend the boundaries of the workplace, securing corporate data while enabling productivity has become a paramount challenge for businesses. To tackle this challenge, Microsoft suggests two pivotal solutions: Microsoft Intune and Microsoft Defender for Endpoint (MDE). 
 Microsoft Intune, part of the Microsoft Endpoint Manager, offers robust mobile device management (MDM) and mobile application management (MAM) capabilities. On the other hand, Microsoft Defender for Endpoint provides comprehensive endpoint security, offering preventative protection, post-breach detection, automated investigation, and response to advanced threats across all the endpoints in an organization.
