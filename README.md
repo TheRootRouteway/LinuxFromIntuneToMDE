@@ -1,1 +1,8 @@
 # LinuxFromIntuneToMDE
+
+In the rapidly evolving digital landscape, where mobile devices and cloud services extend the boundaries of the workplace, securing corporate data while enabling productivity has become a paramount challenge for businesses. To tackle this challenge, Microsoft suggests two pivotal solutions: Microsoft Intune and Microsoft Defender for Endpoint (MDE). 
+Microsoft Intune, part of the Microsoft Endpoint Manager, offers robust mobile device management (MDM) and mobile application management (MAM) capabilities. On the other hand, Microsoft Defender for Endpoint provides comprehensive endpoint security, offering preventative protection, post-breach detection, automated investigation, and response to advanced threats across all the endpoints in an organization.
+
+Together, Microsoft Intune and Microsoft Defender for Endpoint offer a holistic approach to security and mobility management.
+Microsoft support the onboarding of Windows devices already managed by Microsoft Intune into Microsoft Defender for Endpoint (MDE), streamlining the process for enhanced endpoint security. However, this seamless onboarding does not currently extend to Linux workstations, posing a challenge for administrators seeking to onboard Linux systems to MDE that are already under Microsoft Intune management.
+In this article, I will introduce a strategic approach to efficiently onboard Linux devices to MDE, which are already enrolled in Microsoft Intune. This method significantly conserves time and effort by eliminating the need to manually execute the onboarding script on each Linux machine. By adopting this streamlined process, organizations can enhance their security posture across both Windows and Linux environments in a unified, efficient manner.
